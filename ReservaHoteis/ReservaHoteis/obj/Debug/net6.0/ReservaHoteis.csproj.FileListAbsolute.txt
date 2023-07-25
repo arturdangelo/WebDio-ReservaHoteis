@@ -1,0 +1,15 @@
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\bin\Debug\net6.0\ReservaHoteis.exe
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\bin\Debug\net6.0\ReservaHoteis.deps.json
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\bin\Debug\net6.0\ReservaHoteis.runtimeconfig.json
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\bin\Debug\net6.0\ReservaHoteis.dll
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\bin\Debug\net6.0\ReservaHoteis.pdb
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\obj\Debug\net6.0\ReservaHoteis.csproj.AssemblyReference.cache
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\obj\Debug\net6.0\ReservaHoteis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\obj\Debug\net6.0\ReservaHoteis.AssemblyInfoInputs.cache
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\obj\Debug\net6.0\ReservaHoteis.AssemblyInfo.cs
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\obj\Debug\net6.0\ReservaHoteis.csproj.CoreCompileInputs.cache
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\obj\Debug\net6.0\ReservaHoteis.dll
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\obj\Debug\net6.0\refint\ReservaHoteis.dll
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\obj\Debug\net6.0\ReservaHoteis.pdb
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\obj\Debug\net6.0\ReservaHoteis.genruntimeconfig.cache
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\Curso\Desafio do Projeto - Sistema de Hotéis\Projeto\ReservaHoteis\ReservaHoteis\obj\Debug\net6.0\ref\ReservaHoteis.dll
